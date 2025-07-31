@@ -1,5 +1,6 @@
 # CGPA Calculator for Students
-
+## Demo Video
+[![Watch the demo](demo_thumbnail.png)](https://www.youtube.com/watch?v=qoWz_LGJsEc)
 ## Description
 
 The CGPA Calculator is a desktop application developed using Windows Forms, .NET Framework, and Telerik UI for WinForms. This application assists students in tracking their CGPA and generating detailed PDF reports. It is specifically designed for Sri Lankan students, utilizing a grading scale that aligns with the Sri Lankan academic system.
